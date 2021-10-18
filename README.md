@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/D3QRHHY.gif)
+![TwitterPart2](https://user-images.githubusercontent.com/78567987/137656709-dbc16e92-e031-42ad-9521-9582cf0e331a.gif)
 
 # Twitter - Part I
 
